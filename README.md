@@ -2,6 +2,6 @@ About This is the Project Assigned by the CodSoft. This Repo consist of three ta
 
 1 Landing Page 2 Portfolio 3 Calculator
 
-Author Bikash kumar
+Author BShubham Kumar Yadav
 
 for CodSoft intership program
